@@ -7,4 +7,4 @@ Apaixonado pela busca de novos conhecimentos na área de desenvolvimento web e g
 
 Trabalha atualmente como desenvolvedor web na Universidade do Vale do Itajaí, Itajaí - Santa Catarina, sendo responsável pelo desenvolvimento de produtos internos que auxiliam alunos e professores.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mlesouza&hide=contribs,prs)
