@@ -18,5 +18,4 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/marcelo-souza-a74a5916b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/marcelo-souza-a74a5916b/" height="30" width="30" /></a>
 <a href="https://instagram.com/mlesouza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mlesouza" height="30" width="30" /></a>
 <a href="https://dribbble.com/marcelo leonardo de souza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="marcelo leonardo de souza" height="30" width="30" /></a>
-<a href="https://www.behance.net/marcelo leonardo de souza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="marcelo leonardo de souza" height="30" width="30" /></a>
 </p>
