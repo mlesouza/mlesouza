@@ -7,7 +7,7 @@
 
 - 🔭 Trabalho atualmente na Universidade do Vale do Itajaí
 
-- 🌱 Atualmente estou aprendendo sobre **NestJS, Angular, DDD, TDD, Typescript, React, Clean Architect**
+- 🌱 Atualmente estou aprendendo sobre **NestJS, Angular, DDD, TDD, Typescript, React, Clean Architect, .NET CORE**
 
 - 📫 Como me encontrar **mlesouza95@gmail.com**
 
