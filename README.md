@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mlesouza" alt="mlesouza" /> </p>
 
-- 🔭 Trabalho atualmente na [Universidade do Vale do Itajaí]
+- 🔭 Trabalho atualmente na Universidade do Vale do Itajaí
 
 - 🌱 Atualmente estou aprendendo sobre **NestJS, Angular, DDD, TDD, Typescript, React, Clean Architect**
 
