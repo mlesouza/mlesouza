@@ -6,3 +6,5 @@ Bacharel em Ciência da Computação pela Universidade do Vale do Itajaí, tendo
 Apaixonado pela busca de novos conhecimentos na área de desenvolvimento web e grande entusiasta em Data Science e Python.
 
 Trabalha atualmente como desenvolvedor web na Universidade do Vale do Itajaí, Itajaí - Santa Catarina, sendo responsável pelo desenvolvimento de produtos internos que auxiliam alunos e professores.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mlesouza)](https://github.com/anuraghazra/github-readme-stats)
