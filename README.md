@@ -74,6 +74,83 @@ Também tenho experiência com **Node.js/NestJS** em integrações e microsservi
 
 ---
 
+## 🚀 Projetos
+
+### Instore (OMS • Legado)
+**Linx** • **2022 – 2023**  
+**Stack:** AngularJS  
+**Atuação:**
+- Manutenção e evolução do **OMS Instore** (projeto legado em AngularJS)
+- Correções, melhorias incrementais e sustentação contínua do sistema
+- Implementação de novas features e ajustes de comportamento conforme demandas do produto
+
+---
+
+### Instore Mobile (OMS)
+**Linx** • **2023**  
+**Stack:** React Native • BFF (Backend for Frontend)  
+**Atuação:**
+- Desenvolvimento de uma versão **mobile** do **OMS Instore** baseada no sistema legado
+- Criação e manutenção do **BFF**, suportando a comunicação entre o app e serviços internos
+- Evolução contínua do app com foco em estabilidade e entregas incrementais
+
+---
+
+### Instore Responsivo (OMS)
+**Linx** • **2024**  
+**Stack:** Front-end responsivo • Integrações com device features  
+**Atuação:**
+- Revitalização do **OMS Instore** com foco em **responsividade** e modernização da experiência
+- Implementação de funcionalidades voltadas a UX, incluindo:
+  - Uso de **câmera**
+  - **Notificações**
+  - Melhorias gerais de usabilidade e fluxo
+
+---
+
+### Instore (OMS • Refatoração / Modernização)
+**Linx** • **2025 – 2026**  
+**Stack:** Angular 19 • Boas práticas (arquitetura, componentização, padrões de mercado)  
+**Atuação:**
+- Refatoração completa do **OMS Instore**, migrando de **AngularJS → Angular 19**
+- Reestruturação visando manutenibilidade, escalabilidade e consistência técnica
+- Modernização da base seguindo melhores práticas do ecossistema Angular
+
+---
+
+### Sistema WorkFlow
+**Banco do Brasil** • **2021 – 2022**  
+**Atuação:**
+- Manutenção e evolução de sistema interno de workflow
+- Implementação de melhorias e suporte às rotinas do negócio
+
+---
+
+### SIP — Sistema Interno de Patrimônios
+**Univali** • **2019 – 2021**  
+**Atuação:**
+- Desenvolvimento e manutenção de sistema para **controle de patrimônios**
+- Evolução de features e suporte contínuo do sistema
+
+---
+
+### Sistema Acadêmico
+**Univali** • **2019 – 2021**  
+**Atuação:**
+- Manutenção e criação de novas funcionalidades para o sistema acadêmico
+- Evolução contínua conforme necessidades de alunos e professores
+
+---
+
+### Sistema Orçamentário
+**Quay** • **2017 – 2019**  
+**Atuação:**
+- Criação e manutenção de sistema de **planejamento orçamentário**
+- Atuação em contexto de empresas do setor de energia
+
+---
+
+
 ## Tecnologias & Ferramentas
 
 <p>
