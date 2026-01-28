@@ -1,23 +1,115 @@
-<img src="https://raw.githubusercontent.com/mlesouza/mlesouza/master/images/cover.png"></img>
+<img src="https://raw.githubusercontent.com/mlesouza/mlesouza/master/images/cover.png" />
 
-<h1 align="center">Olá meu nome é Marcelo Souza</h1>
-<h5 align="center">Bacharel em Ciência da Computação pela Universidade do Vale do Itajaí, tendo como trabalho de conclusão de curso, feito o desenvolvimento de um Simulador de estrelas de quarks baseado no Modelo de Sacola do MIT. Apaixonado pela busca de novos conhecimentos na área de desenvolvimento web e grande entusiasta em Data Science e Python. </h5>
-<h5 align="center">Trabalha atualmente como desenvolvedor web na Universidade do Vale do Itajaí, Itajaí - Santa Catarina, sendo responsável pelo desenvolvimento de produtos internos que auxiliam alunos e professores.</h5>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mlesouza" alt="mlesouza" /> </p>
-
-- 🔭 Trabalho atualmente na Universidade do Vale do Itajaí
-
-- 🌱 Atualmente estou aprendendo sobre **NestJS, Angular, DDD, TDD, Typescript, React, Clean Architect, .NET CORE**
-
-- 📫 Como me encontrar **mlesouza95@gmail.com**
-
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlesouza&layout=compact&hide=html" alt="mlesouza" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mlesouza&show_icons=true" alt="mlesouza" /></p>
+<h1 align="center">Olá, eu sou o Marcelo Souza 👋</h1>
 
 <p align="center">
-<a href="https://twitter.com/mlesouza95" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mlesouza95" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/marcelo-souza-a74a5916b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/marcelo-souza-a74a5916b/" height="30" width="30" /></a>
-<a href="https://instagram.com/mlesouza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mlesouza" height="30" width="30" /></a>
+  <strong>Senior Frontend Engineer</strong> • Angular • React • React Native • TypeScript<br/>
+  TDD • CI/CD • Design Systems • Performance
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mlesouza95" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-mlesouza95-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mlesouza95@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mlesouza95%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mlesouza&label=Profile%20views&color=0e75b6&style=flat" alt="mlesouza" />
+</p>
+
+---
+
+## Sobre mim
+
+Sou **Senior Frontend Developer** com **8+ anos** construindo e evoluindo aplicações **web e mobile** em ambientes de produto, com foco em **arquitetura**, **qualidade** e **performance**.
+
+Atualmente atuo na **Linx** como **Especialista Front-End**, ajudando a evoluir e sustentar sistemas, definindo padrões de codificação, melhorando a base técnica e fortalecendo a esteira de entrega (**CI/CD com GitHub Actions**) e entrega de assets com **Nginx**.
+
+Também tenho experiência com **Node.js/NestJS** em integrações e microsserviços, **Keycloak** (autenticação/autorização) e cenários **serverless (AWS/Azure)**.
+
+> 🎓 Formação: Mestrado em Ciências da Computação (Univali) com foco em ML/IA  
+> 🎓 Especialização em Big Data (Univali)  
+> 🎓 Bacharel em Ciência da Computação (Univali) — TCC: Simulador de estrelas de quarks (MIT Bag Model)
+
+---
+
+## Stack principal
+
+- **Frontend:** Angular (6+ / 16+), React, React Native, TypeScript, TailwindCSS, Sass/SCSS
+- **Qualidade:** TDD, testes unitários, padronização e revisão de PR
+- **Infra/Entrega:** GitHub Actions (CI/CD), Docker, Nginx
+- **Backend/Integrações:** Node.js, NestJS, Keycloak, AWS/Azure
+
+---
+
+## Experiência (resumo)
+
+### Linx — Especialista Front-End (Jul/2024 → Atual)
+- Evolução e sustentação de sistemas front-end com foco em qualidade e manutenibilidade
+- Definição e disseminação de padrões (componentização, organização e revisão de PR)
+- Migração de legado para **Angular 19+** (standalone, build e boas práticas)
+- Integração/manutenção de **CI/CD com GitHub Actions** (build/validações/fluxo de entrega)
+- Ajustes de **Nginx** para entrega eficiente de assets e comportamento por ambiente
+
+### Cadmus Soluções em TI — Desenvolvedor Front-End Sênior (Ago/2022 → Jul/2024)
+- Sustentação e evolução de sistema legado em AngularJS com estabilidade/performance
+- Melhorias de UI/UX e responsividade
+- Desenvolvimento mobile em React Native e integrações com serviços internos
+- Suporte em API/integrações com microsserviços, Keycloak e práticas de qualidade (TDD/testes)
+
+### Capgemini — Desenvolvedor Front-End Pleno (Abr/2021 → Ago/2022)
+- Evolução de sistema para cliente bancário
+- Implementação de testes unitários e TDD (aumento significativo de cobertura)
+
+### Univali — GeneXus/Angular Developer (Set/2019 → Abr/2021)
+- Evolução de sistemas acadêmicos (GeneXus) e módulos front-end com Angular
+- Integrações com APIs e banco de dados (Oracle/SQL)
+
+### QUAY Sistemas e Portais — Frontend Developer (Out/2018 → Set/2019)
+- Interfaces responsivas para aplicação white-label, portais e sistemas internos
+- Foco em performance e experiência do usuário com integrações via APIs
+
+---
+
+## Tecnologias & Ferramentas
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="Nginx" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlesouza&layout=compact" alt="mlesouza" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mlesouza&show_icons=true" alt="mlesouza" />
+</p>
+
+---
+
+## Contato
+
+- 📫 **mlesouza95@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/mlesouza95
